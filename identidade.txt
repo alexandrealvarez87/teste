@@ -2,3 +2,4 @@ Nome: Davi
 CPF: 000.000.000-oo
 idade: 49
 altura: 1.98
+cor de cabelo: Preto
